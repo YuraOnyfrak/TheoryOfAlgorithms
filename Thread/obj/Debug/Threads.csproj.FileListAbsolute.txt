@@ -1,0 +1,13 @@
+D:\Програми\List\Thread\bin\Debug\Thread.exe.config
+D:\Програми\List\Thread\bin\Debug\Thread.exe
+D:\Програми\List\Thread\bin\Debug\Thread.pdb
+D:\Програми\List\Thread\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+D:\Програми\List\Thread\obj\Debug\Thread.exe
+D:\Програми\List\Thread\obj\Debug\Thread.pdb
+E:\Програмування\Програми\ТА\List\Thread\bin\Debug\Thread.exe.config
+E:\Програмування\Програми\ТА\List\Thread\bin\Debug\Thread.exe
+E:\Програмування\Програми\ТА\List\Thread\bin\Debug\Thread.pdb
+E:\Програмування\Програми\ТА\List\Thread\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\ТА\List\Thread\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\ТА\List\Thread\obj\Debug\Thread.exe
+E:\Програмування\Програми\ТА\List\Thread\obj\Debug\Thread.pdb
